@@ -1,2 +1,72 @@
 # Auto detect text files and perform LF normalization
 * text=auto
+    
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <h1 id="Inicio"><u>El sistema solar</u></h1>     
+    <img src="imagenes/Sistema.jpg" width="700px" alt="Sistema solar">
+    <p><u>Conformado por los planetas</u></p>
+       
+    <ul>
+        <li style="color: yellow;">Sol</li>
+        <li style="color: brown;">Mercurio</li>
+        <li style="color: orange;">Venus</li>
+        <li style="color: green;">Tierra</li>
+        <li style="color: red;">Marte</li>
+        <li style="color: lightcoral;">Jupiter</li>
+        <li style="color: sandybrown;">Saturno</li>
+        <li style="color: lightskyblue;">Urano</li>
+        <li style="color: cyan;">Neptuno</li>
+
+    
+
+    </ul>
+
+    <table border="1,5">
+        <h1>Planetas y ubicacion</h1>
+        <tr>
+            <td colspan="3"> Posición </td>
+        </tr>
+        <tr>
+            <td>Planeta</td>
+            <td>Color</td>  
+            <td>Ubicacion</td>
+        </tr>
+        <tr>
+            <td>Mercurio <img src="imagenes/Mercurio.jpg" width="100px" alt="mercurio"></td>
+            <td>Marron</td>  
+            <td>Primero</td>
+        </tr>
+        <tr>
+            <td>Venus   <img src="imagenes/Venus.jpg" width="100px" alt="venus"> </td>
+            <td>Anaranjado</td>  
+            <td>Segundo</td>
+        </tr>
+        <tr>
+            <td>Tierra   <img src="imagenes/Tierra.png" width="100px" alt="venus"> </td>
+            <td>Azul y verde</td>  
+            <td>Tercero</td>
+        </tr>
+        <tr>
+            <td>Marte   <img src="imagenes/Venus.jpg" width="100px" alt="venus"> </td>
+            <td>Rojo</td>  
+            <td>Cuarto</td>
+        </tr>
+
+
+    </table>
+    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolores odit excepturi officia quibusdam, voluptas unde, nisi velit esse repudiandae at explicabo quo impedit, corrupti adipisci. Omnis facilis vero labore soluta? Lorem ipsum dolor sit, amet consectetur adipisicing elit. Eos explicabo magnam et dolorum repellat ratione,<br> id quisquam, est voluptate tenetur incidunt architecto debitis mollitia iusto ipsam? Nulla, ab consectetur? Nemo. Lorem ipsum dolor sit amet consectetur adipisicing elit. Cum, distinctio aperiam ratione facilis suscipit tenetur! Odit minima ea nihil molestias exercitationem aliquam quod ad. Cupiditate adipisci ipsam cumque nulla aut?</p>
+
+    <nav>
+       <a href="tel: +3364898989">Contacto</a>  |<a href="#Inicio">Inicio</a>  | <a href="https://www.nasa.gov/">NASA</a> | <a href="https://www.instagram.com/nasa/">Redes sociales</a> 
+    </nav>
+
+</body>
+</html>
